@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f0f3f7 !important;
+}
+
+.loader-container {
+  display: "flex";
+  justify-content: "center";
+  align-items: "center";
+  height: "100vh";
+}
