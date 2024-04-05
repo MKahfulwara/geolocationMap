@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgeolocation_management_application=self.webpackChunkgeolocation_management_application||[]).push([[432],{432:(e,a,n)=>{n.r(a),n.d(a,{default:()=>o});n(43);var t=n(628),c=n(519),l=n(579);const o=function(){return(0,l.jsx)(t.A,{collapseOnSelect:!0,expand:"lg",className:"bg-body-tertiary mb-5",children:(0,l.jsx)(c.A,{children:(0,l.jsx)(t.A.Brand,{href:"#",children:"Geolocation Management Application"})})})}}}]);
+//# sourceMappingURL=432.b8fdf870.chunk.js.map
