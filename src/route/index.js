@@ -6,7 +6,7 @@ const Loader = React.lazy(() => import("../components/Loader"));
 
 function AppRoutes() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/geolocationMap">
       <Suspense fallback={<Loader />}>
         <Routes>
           <Route name="Home" element={<Layout />}>
